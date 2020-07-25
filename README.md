@@ -3,3 +3,5 @@ IMDb (Internet Movie Database) is one of the most recognized names for its compr
 - What kind of data does the IMDb database cover?
 - What kind of ratings do people give in general? Is it really a normal distribution? Which movies get the best ratings?
 - Based on the movies that I like, which ones should I also check out?
+
+Link to the article here https://towardsdatascience.com/imdb-data-science-pull-analyze-movies-data-using-python-b59dc8511157#e23c-bdb589aa330d
